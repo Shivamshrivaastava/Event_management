@@ -159,8 +159,6 @@ Frontend runs at 👉 **http://localhost:5173**
 
 ---
 
-## 📸 Screenshots  
-*(Add your app screenshots here for a more awesome README)*
 
 ---
 
